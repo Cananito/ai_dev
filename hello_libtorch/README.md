@@ -6,7 +6,7 @@ Requirements:
 
 * Linux or macOS.
 * A C and C++ compiler.
-* Make
+* Make.
 * [LibTorch](https://pytorch.org/get-started/locally/).
   - The uncompressed dir should be added to the same directory as this README file, which is ignored by git.
 
